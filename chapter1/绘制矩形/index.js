@@ -46,6 +46,7 @@ drawBlueStrokeRect();
 */
 
 //矩形开孔效果
+/*
 const clearRect = () => {
   const drawing = document.getElementById('drawing');
   const context = drawing.getContext('2d');
@@ -56,3 +57,4 @@ const clearRect = () => {
   context.clearRect(40, 40, 10, 10);
 }
 clearRect();
+*/
